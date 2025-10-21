@@ -1,6 +1,6 @@
-# DATE: 19.10.25
+# DATE: 21.10.25
 
-# Classes and Objects in Python: Calculate the Area of a Circle
+# Experiment No:4-A: Classes and Objects in Python: Calculate the Area of a Circle
 
 ## 🎯 Aim
 To write a Python program that calculates the *area of a circle* based on the radius provided by the user. This program uses a class named cse and a method mech to perform the calculation.
@@ -32,7 +32,7 @@ s.f()
 
 ## Result
 The program successfully calculates the area of a circle using classes and objects
-## Dictionary Operations in Python: Merging Two Dictionaries
+# Experiment No:4-B: Dictionary Operations in Python: Merging Two Dictionaries
 
 ## 🎯 Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
@@ -60,7 +60,7 @@ print(dict1)
 The program successfully merges two dictionaries.
 All key-value pairs from both dictionaries are combined.
 If a key exists in both dictionaries (like 'b'), the value from the second dictionary (dict2) overwrites the value from the first dictionary (dict1).
-# 🔤 Dictionary-Python Program to Sort a Dictionary by Keys and Values
+# Experiment No:4-C: Dictionary-Python Program to Sort a Dictionary by Keys and Values
 
 This Python program demonstrates how to sort a dictionary:
 - Alphabetically by keys
@@ -106,7 +106,7 @@ print(sorted_items)
 
 ## Result
 The program successfully sorts a dictionary
-# Exception Handling in Python: Avoiding Index Errors
+# Experiment No:4-D: Exception Handling in Python: Avoiding Index Errors
 
 ## 🎯 Aim
 To write a Python program that handles an **IndexError** when trying to access an element beyond the available range of a list.
@@ -138,7 +138,7 @@ except IndexError:
 ## Result
 The program successfully handles an IndexError when attempting to access a list element beyond its range.
 Instead of crashing, it prints a custom message, informing the user that the requested index is out of range.
-# File Handling in Python: Count Lines Not Starting with 'T'
+# Experiment No:4-E: File Handling in Python: Count Lines Not Starting with 'T'
 
 ## 🎯 Aim
 To write a Python program that counts the number of lines in a text file story.txt that do *not* start with the alphabet 'T'.
